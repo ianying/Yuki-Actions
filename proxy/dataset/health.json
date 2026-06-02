@@ -8763,13 +8763,13 @@
     "fail_count": 0,
     "last_verified": "2026-05-17T12:57:29+00:00",
     "last_ok": "2026-05-17T12:57:29+00:00",
-    "latency_ms": 3296.4,
+    "latency_ms": 2890.7,
     "latency_history": [
-      3890.2,
       5587.7,
       333.3,
       2831.9,
-      3296.4
+      3296.4,
+      2890.7
     ],
     "first_seen": "2026-04-07T07:05:09+00:00",
     "dormant": false,
@@ -24210,13 +24210,13 @@
     "fail_count": 0,
     "last_verified": "2026-05-17T12:57:29+00:00",
     "last_ok": "2026-05-17T12:57:29+00:00",
-    "latency_ms": 342.8,
+    "latency_ms": 249.5,
     "latency_history": [
-      1092.7,
       85.6,
       137.1,
       192.0,
-      342.8
+      342.8,
+      249.5
     ],
     "first_seen": "2026-04-17T07:20:24+00:00",
     "dormant": false,
@@ -26260,13 +26260,13 @@
     "fail_count": 0,
     "last_verified": "2026-05-17T12:57:29+00:00",
     "last_ok": "2026-05-17T12:57:29+00:00",
-    "latency_ms": 152.1,
+    "latency_ms": 151.9,
     "latency_history": [
-      53.0,
       156.6,
       119.0,
       41.8,
-      152.1
+      152.1,
+      151.9
     ],
     "first_seen": "2026-04-19T07:07:21+00:00",
     "dormant": false,
@@ -32256,13 +32256,13 @@
     "fail_count": 0,
     "last_verified": "2026-05-17T12:57:29+00:00",
     "last_ok": "2026-05-17T12:57:29+00:00",
-    "latency_ms": 160.5,
+    "latency_ms": 153.0,
     "latency_history": [
-      42.3,
       151.9,
       127.0,
       44.7,
-      160.5
+      160.5,
+      153.0
     ],
     "first_seen": "2026-04-21T01:30:22+00:00",
     "dormant": false,
@@ -32302,13 +32302,13 @@
     "fail_count": 0,
     "last_verified": "2026-05-17T12:57:29+00:00",
     "last_ok": "2026-05-17T12:57:29+00:00",
-    "latency_ms": 36.4,
+    "latency_ms": 153.3,
     "latency_history": [
-      1708.9,
       3606.7,
       42.9,
       171.7,
-      36.4
+      36.4,
+      153.3
     ],
     "first_seen": "2026-04-21T01:30:22+00:00",
     "dormant": false,
@@ -60679,13 +60679,13 @@
     "fail_count": 0,
     "last_verified": "2026-05-17T12:57:29+00:00",
     "last_ok": "2026-05-17T12:57:29+00:00",
-    "latency_ms": 131.3,
+    "latency_ms": 137.7,
     "latency_history": [
-      33.1,
       146.0,
       122.7,
       26.4,
-      131.3
+      131.3,
+      137.7
     ],
     "first_seen": "2026-04-30T08:04:34+00:00",
     "dormant": false,
@@ -69334,13 +69334,13 @@
     "fail_count": 0,
     "last_verified": "2026-05-17T12:57:29+00:00",
     "last_ok": "2026-05-17T12:57:29+00:00",
-    "latency_ms": 1473.9,
+    "latency_ms": 5466.1,
     "latency_history": [
-      5781.0,
       769.6,
       2545.1,
       889.6,
-      1473.9
+      1473.9,
+      5466.1
     ],
     "first_seen": "2026-05-09T07:43:37+00:00",
     "dormant": false,
@@ -79681,13 +79681,13 @@
     "fail_count": 0,
     "last_verified": "2026-05-17T12:57:29+00:00",
     "last_ok": "2026-05-17T12:57:29+00:00",
-    "latency_ms": 424.4,
+    "latency_ms": 2501.3,
     "latency_history": [
-      533.9,
       2960.2,
       930.4,
       531.7,
-      424.4
+      424.4,
+      2501.3
     ],
     "first_seen": "2026-05-17T08:10:29+00:00",
     "dormant": false,
@@ -95328,6 +95328,40 @@
     "latency_ms": 0.0,
     "latency_history": [],
     "first_seen": "2026-06-02T16:00:32+00:00",
+    "dormant": false,
+    "dormant_since": ""
+  },
+  "1a403b20690f848166d40680876c74cc1c6f3a9344844010329cadf1ce4fad4d": {
+    "link": "vless://0ddc1b7c-ce23-4a30-8ede-8a9e19f02fb7@vsgch.mostserv.xyz:443?security=reality&type=tcp&sni=vsgch.mostserv.xyz&fp=chrome&flow=xtls-rprx-vision&sid=226509f017e4c36d&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&encryption=none#%E7%AB%8B%E9%99%B6%E5%AE%9B+V2CROSS.COM",
+    "protocol": "vless",
+    "host": "vsgch.mostserv.xyz",
+    "port": 443,
+    "country": "",
+    "source_repo": "",
+    "source_tag": "github:Pawdroid/Free-servers",
+    "fail_count": 0,
+    "last_verified": "",
+    "last_ok": "",
+    "latency_ms": 0.0,
+    "latency_history": [],
+    "first_seen": "2026-06-02T20:35:08+00:00",
+    "dormant": false,
+    "dormant_since": ""
+  },
+  "26657edc234eed7f97b8f793308c3709a06135446135bee364b584e50d276698": {
+    "link": "trojan://humanity@216.24.57.7:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E",
+    "protocol": "trojan",
+    "host": "216.24.57.7",
+    "port": 443,
+    "country": "",
+    "source_repo": "",
+    "source_tag": "github:mfuu/v2ray",
+    "fail_count": 0,
+    "last_verified": "",
+    "last_ok": "",
+    "latency_ms": 0.0,
+    "latency_history": [],
+    "first_seen": "2026-06-02T20:35:08+00:00",
     "dormant": false,
     "dormant_since": ""
   }
