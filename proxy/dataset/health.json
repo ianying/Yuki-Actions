@@ -8063,13 +8063,13 @@
     "fail_count": 0,
     "last_verified": "2026-05-17T12:57:29+00:00",
     "last_ok": "2026-05-17T12:57:29+00:00",
-    "latency_ms": 93.1,
+    "latency_ms": 205.3,
     "latency_history": [
-      166.4,
       164.0,
       64.4,
       110.5,
-      93.1
+      93.1,
+      205.3
     ],
     "first_seen": "2026-04-06T07:18:22+00:00",
     "dormant": false,
@@ -8763,13 +8763,13 @@
     "fail_count": 0,
     "last_verified": "2026-05-17T12:57:29+00:00",
     "last_ok": "2026-05-17T12:57:29+00:00",
-    "latency_ms": 4490.4,
+    "latency_ms": 3294.8,
     "latency_history": [
-      496.4,
       559.6,
       2098.6,
       520.2,
-      4490.4
+      4490.4,
+      3294.8
     ],
     "first_seen": "2026-04-07T07:05:09+00:00",
     "dormant": false,
@@ -26260,13 +26260,13 @@
     "fail_count": 0,
     "last_verified": "2026-05-17T12:57:29+00:00",
     "last_ok": "2026-05-17T12:57:29+00:00",
-    "latency_ms": 54.1,
+    "latency_ms": 101.2,
     "latency_history": [
-      38.9,
       99.8,
       140.4,
       46.3,
-      54.1
+      54.1,
+      101.2
     ],
     "first_seen": "2026-04-19T07:07:21+00:00",
     "dormant": false,
@@ -32302,13 +32302,13 @@
     "fail_count": 0,
     "last_verified": "2026-05-17T12:57:29+00:00",
     "last_ok": "2026-05-17T12:57:29+00:00",
-    "latency_ms": 52.1,
+    "latency_ms": 108.3,
     "latency_history": [
-      35.5,
       96.5,
       157.2,
       47.6,
-      52.1
+      52.1,
+      108.3
     ],
     "first_seen": "2026-04-21T01:30:22+00:00",
     "dormant": false,
@@ -60679,13 +60679,13 @@
     "fail_count": 0,
     "last_verified": "2026-05-17T12:57:29+00:00",
     "last_ok": "2026-05-17T12:57:29+00:00",
-    "latency_ms": 50.0,
+    "latency_ms": 102.4,
     "latency_history": [
-      40.6,
       101.9,
       152.9,
       63.6,
-      50.0
+      50.0,
+      102.4
     ],
     "first_seen": "2026-04-30T08:04:34+00:00",
     "dormant": false,
@@ -79685,13 +79685,13 @@
     "fail_count": 0,
     "last_verified": "2026-05-17T12:57:29+00:00",
     "last_ok": "2026-05-17T12:57:29+00:00",
-    "latency_ms": 1569.1,
+    "latency_ms": 1810.1,
     "latency_history": [
-      1889.4,
       1994.6,
       801.8,
       598.2,
-      1569.1
+      1569.1,
+      1810.1
     ],
     "first_seen": "2026-05-17T08:10:29+00:00",
     "dormant": false,
@@ -104665,6 +104665,57 @@
     "latency_ms": 0.0,
     "latency_history": [],
     "first_seen": "2026-06-17T10:25:52+00:00",
+    "dormant": false,
+    "dormant_since": ""
+  },
+  "d26af698739c34030efd24dcf1bc9f00152aa3b3331be4f430a8ab6415174191": {
+    "link": "vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.236:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#%E6%8D%B7%E5%85%8B+V2CROSS.COM",
+    "protocol": "vless",
+    "host": "87.249.139.236",
+    "port": 8443,
+    "country": "",
+    "source_repo": "",
+    "source_tag": "github:Pawdroid/Free-servers",
+    "fail_count": 0,
+    "last_verified": "",
+    "last_ok": "",
+    "latency_ms": 0.0,
+    "latency_history": [],
+    "first_seen": "2026-06-17T14:51:18+00:00",
+    "dormant": false,
+    "dormant_since": ""
+  },
+  "cb7481f37b5f5838e750cf1f4a2fcc4320456f19feb052f9ee23562b6d6c6a53": {
+    "link": "vless://394f6981-a782-4779-9a85-e6cf22935d93@87.249.139.248:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ams1.fromblancwithlove.com#%E6%8D%B7%E5%85%8B+V2CROSS.COM",
+    "protocol": "vless",
+    "host": "87.249.139.248",
+    "port": 8443,
+    "country": "",
+    "source_repo": "",
+    "source_tag": "github:Pawdroid/Free-servers",
+    "fail_count": 0,
+    "last_verified": "",
+    "last_ok": "",
+    "latency_ms": 0.0,
+    "latency_history": [],
+    "first_seen": "2026-06-17T14:51:18+00:00",
+    "dormant": false,
+    "dormant_since": ""
+  },
+  "1bed36742db2e3603d0470c24e4d0a7c03872a8cfee1e35d760a298da72671fb": {
+    "link": "vless://eeb6823c-b926-4ea2-866a-5542edd26e59@www.shopify.com:443?path=/&security=tls&encryption=none&insecure=1&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=1&sni=t1s1.rittbo.kdns.fr#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9",
+    "protocol": "vless",
+    "host": "www.shopify.com",
+    "port": 443,
+    "country": "XX",
+    "source_repo": "",
+    "source_tag": "github:Pawdroid/Free-servers",
+    "fail_count": 0,
+    "last_verified": "",
+    "last_ok": "",
+    "latency_ms": 0.0,
+    "latency_history": [],
+    "first_seen": "2026-06-17T14:51:18+00:00",
     "dormant": false,
     "dormant_since": ""
   }
