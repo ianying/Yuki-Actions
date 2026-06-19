@@ -792,3 +792,12 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.54:8443?encryption=none&
 trojan://humanity@172.64.147.223:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 trojan://MiTiVPN@151.101.110.219:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACFastly%E8%8A%82%E7%82%B9
 trojan://humanity@www.speedtest.org:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&host=www.ignitelimit.com&path=/assignment#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.50:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+trojan://humanity@104.18.152.54:443?path=/assignment&security=tls&alpn=h3,h2&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.200:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#%E5%B7%B4%E8%A5%BF+V2CROSS.COM
+vless://794c31c8-2a8f-43a4-a087-469b675b673d@167.233.141.199:13512?type=tcp&path=/news/34343&host=http://snap.io&headerType=http&security=none#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://394f6981-a782-4779-9a85-e6cf22935d93@143.244.45.53:8443?encryption=none&security=tls&sni=ams1.fromblancwithlove.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD+V2CROSS.COM
+vless://394f6981-a782-4779-9a85-e6cf22935d93@79.127.227.57:8443?allowInsecure=0&sni=ams1.fromblancwithlove.com&security=tls#%E6%8D%B7%E5%85%8B+V2CROSS.COM
+trojan://humanity@199.181.197.212:443?allowInsecure=0&sni=www.calmloud.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20V2CROSS.COM
+trojan://humanity@104.16.71.213:443?allowInsecure=0&sni=www.calmlunch.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20CloudFlare%E8%8A%82%E7%82%B9
+trojan://humanity@8.6.112.6:443?allowInsecure=0&sni=www.calmloud.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E5%BE%97%E5%85%8B%E8%90%A8%E6%96%AF%E5%B7%9E%E8%BE%BE%E6%8B%89%E6%96%AFCloudflare%20Warp%E8%8A%82%E7%82%B9
