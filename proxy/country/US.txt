@@ -82,6 +82,7 @@ vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@52.84.199.57:443?fp=chrome&host=d1y
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@52.84.199.28:443?fp=chrome&host=d1yxsk0zprgivr.cloudfront.net&path=%2F&security=tls&sni=d1yxsk0zprgivr.cloudfront.net&type=ws#%E7%BE%8E%E5%9B%BD+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@180.178.60.254:10000?encryption=none&security=&type=tcp#%E9%A6%99%E6%B8%AF+Simcentric%E7%BD%91%E7%BB%9C%E5%85%AC%E5%8F%B8
 vless://23ed3e1a-afe7-4fb5-8a11-93b3717bf23e@38.162.115.161:19001?type=tcp&security=reality&sni=www.apple.com&flow=xtls-rprx-vision&pbk=LRMtZDygVe621vfhniB5ZSLza7zk_HOBFQsm8jS_XFg&sid=bf63ee4d&fp=chrome#US%20-%20zhuhai.uk%2005
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@108.162.198.178:80?security=none&type=ws&path=/?ed=2560security=tls&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&packetEncoding=xudp&sni=8nj2r.2k8t.f88.hh.vavava.kdns.fr#%E7%BE%8E%E5%9B%BD+CloudFlare%E8%8A%82%E7%82%B9
 vless://caec0d8d-ab2f-4247-b97d-7fb1a34ab195@180.178.60.253:10000?encryption=none&security=none&type=tcp&headerType=none#%E9%A6%99%E6%B8%AF+Simcentric%E7%BD%91%E7%BB%9C%E5%85%AC%E5%8F%B8
 vless://41f4cb15-5a3f-3934-89fe-b4177146adf4@192.3.118.133:443?type=tcp&security=tls&sni=u643766u75eebf99s2316.kukuss.top&flow=xtls-rprx-vision&fp=firefox#US%20-%20zhuhai.uk%2005
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@156.146.38.195:1080#%E6%9C%AA%E7%9F%A5%20SS-314%20%7C%20free-nodes
@@ -97,4 +98,3 @@ vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.90:443?type=tcp&security=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@37.120.139.234:1080#%E6%9C%AA%E7%9F%A5%20SS-294%20%7C%20free-nodes
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.74:443?type=tcp&security=reality&sni=yahoo.com&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&fp=ios#US%20-%20zhuhai.uk
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.229:443?type=tcp&security=reality&sni=yahoo.com&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&fp=ios#US%20-%20zhuhai.uk%2006
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&type=tcp&packetEncoding=xudp&sni=yahoo.com&fp=ios&flow=xtls-rprx-vision&sid=c39cc7310a&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg#%E7%91%9E%E5%A3%AB+V2CROSS.COM
