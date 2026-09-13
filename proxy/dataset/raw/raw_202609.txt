@@ -571,3 +571,8 @@ vless://caab26f1-c2e0-438d-8342-5d2125fb45df@8.209.248.218:443?type=tcp&security
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SzBUcFl1LzE1SVdOR2pWSW96QnVhMXVVNUI5UUIrTFpSdkZrUDZmU0FmWT0=@129.151.80.3:61312#GB%20-%20zhuhai.uk%2003
 vless://2c76c84a-1bfd-4413-8974-c44b3390a03b@sserq.pages.dev:443?type=ws&security=tls&sni=sserq.pages.dev&path=%2F&host=sserq.pages.dev&fp=chrome#US%20-%20zhuhai.uk%2007
 vless://60300afa-3366-4ae3-959a-7b50438acebb@77.90.52.36:443?security=reality&type=tcp&sni=de5.wequ.host&fp=chrome&flow=xtls-rprx-vision&sid=17b3b79c&pbk=sL-WH6OA3-ed-5vxu5wWuTmQ-8Y4Fbfpx24kkgu3s1M#DE%20-%20zhuhai.uk%2001
+vless://827a0eb0-21bf-4bce-96ef-0a7bac5d68f5@144.124.252.13:443?security=reality&encryption=none&pbk=DS9mX6cMb5wvwFzga8yN2NLbs7soXM7038_P23yPKwk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nid3.pinkmoon.pro&sid=8ffa160e608bf539#%E8%8B%B1%E5%9B%BD+%E5%A8%81%E5%B0%94%E5%A3%AB%E9%98%BF%E4%BC%AF%E6%96%AF%E5%A8%81%E5%A4%A7%E5%AD%A6
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ckhBS1lQQlRZbFR6cjRPanhIbXdySFFXMnVhd0hhTmNJRGJXSTFGSXJ0Zz0=@129.151.70.86:61312#GB%20-%20zhuhai.uk%2002
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bEJLbEFneUVZeGRLNUREQkVPdTRFVFR6bTd2RVBoYXo3NFZ2T245VjRIWT0=@134.65.57.2:61312#GB%20-%20zhuhai.uk%2003
+vless://d7cad038-0c3f-4cce-8f8a-36464aaf66c0@31.76.54.56:6443?type=tcp&security=reality&sni=www.samsung.com&flow=xtls-rprx-vision&pbk=HHz-2xJzux-wn53uLOnSpdjds9rnRZEI7sr6z5hYnis&sid=79245360&fp=firefox#DE%20-%20zhuhai.uk
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@104.245.242.8:8443?security=reality&type=grpc&mode=gun&serviceName=TunService&sni=download.nvidia.com&fp=chrome&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk#US%20-%20zhuhai.uk%2003
