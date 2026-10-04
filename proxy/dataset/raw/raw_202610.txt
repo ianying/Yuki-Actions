@@ -188,3 +188,9 @@ vless://0f47a872-b140-46f5-aef8-f46993f5fc01@112.49.63.11:33102?type=tcp&securit
 anytls://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@vtqzv00s.zf-mix.9999231.xyz:1007/?sni=vn-my.9999231.xyz&fp=chrome&udp=1#VN%20-%20zhuhai.uk
 vless://325bc1be-0cb7-4cf7-bd35-a79ded91bbbd@34.40.217.165:443?type=tcp&security=reality&sni=www.cloudflare.com&pbk=fsdIMU2apN1C_NbkL7mHTsBKEfhwbDhgCRcB8ICf03E&sid=d725f0dd8cce210f&fp=chrome#AU%20-%20zhuhai.uk
 vless://0f47a872-b140-46f5-aef8-f46993f5fc01@27.155.117.209:33102?type=tcp&security=tls&sni=sgg.knhqf.com&flow=xtls-rprx-vision#SG%20-%20zhuhai.uk%2002
+anytls://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@3rpiiiqh.zf-mix.9999231.xyz:1043/?sni=pe-wy.9999231.xyz&fp=chrome&udp=1#PE%20-%20zhuhai.uk
+vless://1b60cff4-49ce-4bf3-9027-e4f9c47d6158@14.17.78.144:14343?type=tcp&security=tls&sni=thuk.huaweiyouxuan.com&flow=xtls-rprx-vision&fp=chrome#HK%20-%20zhuhai.uk%2003
+vless://d6518def-3c6f-4e7c-a328-2923a08854d3@vless-jp01.waimaosass.icu:50131?type=tcp&security=tls&sni=d1.awsstatic.com&flow=xtls-rprx-vision&fp=chrome&allowInsecure=1#JP%20-%20zhuhai.uk%2002
+vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?security=reality&encryption=none&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&headerType=&fp=chrome&spx=/EL8OY1VX47km1uf&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=65149fc5ba#%E7%88%B1%E5%B0%94%E5%85%B0+V2CROSS.COM
+hysteria2://3fed19ea-1671-11f0-bd2e-f23c9164ca5d@2dd0472e-tmm5c0-twj07b-fm2v.hk3.hyhuawei.com:443?insecure=1&security=tls&sni=2dd0472e-tmm5c0-twj07b-fm2v.hk3.hyhuawei.com#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+hysteria2://5acc7a7c-d7ea-11eb-8673-f23c9164ca5d@20247da3-tmm5c0-u1dz9j-12hj8.hk3.hyhuawei.com:443?insecure=1&security=tls&sni=20247da3-tmm5c0-u1dz9j-12hj8.hk3.hyhuawei.com#%E9%A6%99%E6%B8%AF+%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
