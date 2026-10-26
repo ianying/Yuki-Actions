@@ -104029,13 +104029,13 @@
     "fail_count": 0,
     "last_verified": "2026-10-09T12:17:36+00:00",
     "last_ok": "2026-10-09T12:17:36+00:00",
-    "latency_ms": 422.3,
+    "latency_ms": 521.9,
     "latency_history": [
-      392.3,
       733.7,
       1046.2,
       3764.2,
-      422.3
+      422.3,
+      521.9
     ],
     "first_seen": "2026-10-08T22:39:31+00:00",
     "dormant": false,
@@ -113157,6 +113157,40 @@
     "latency_ms": 0.0,
     "latency_history": [],
     "first_seen": "2026-10-26T17:54:42+00:00",
+    "dormant": false,
+    "dormant_since": ""
+  },
+  "8c81856575247c20ca9e4c50f2a7ce353c1d3faa52abc234735e0212db5ba9a8": {
+    "link": "vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@saas.sin.fan:2096?type=ws&security=tls&sni=vp6.1145678.xyz&path=%2Ftest&host=vp6.1145678.xyz&fp=chrome#US%20-%20zhuhai.uk%2008",
+    "protocol": "vless",
+    "host": "saas.sin.fan",
+    "port": 2096,
+    "country": "",
+    "source_repo": "",
+    "source_tag": "github:zhuhaiuk/free-nodes",
+    "fail_count": 0,
+    "last_verified": "",
+    "last_ok": "",
+    "latency_ms": 0.0,
+    "latency_history": [],
+    "first_seen": "2026-10-26T22:06:06+00:00",
+    "dormant": false,
+    "dormant_since": ""
+  },
+  "2856fbd315880016c366c8d25230422c0afea729411cf60abf84395e73753c46": {
+    "link": "hysteria2://94c2b91777f8de3a5bc12d2a91b732c2@promo3.betust.net:443?security=tls&sni=promo3.betust.net#%E7%AB%8B%E9%99%B6%E5%AE%9B+V2CROSS.COM",
+    "protocol": "hysteria2",
+    "host": "promo3.betust.net",
+    "port": 443,
+    "country": "",
+    "source_repo": "",
+    "source_tag": "github:Pawdroid/Free-servers",
+    "fail_count": 0,
+    "last_verified": "",
+    "last_ok": "",
+    "latency_ms": 0.0,
+    "latency_history": [],
+    "first_seen": "2026-10-26T22:06:06+00:00",
     "dormant": false,
     "dormant_since": ""
   }
