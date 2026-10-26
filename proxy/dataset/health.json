@@ -104029,13 +104029,13 @@
     "fail_count": 0,
     "last_verified": "2026-10-09T12:17:36+00:00",
     "last_ok": "2026-10-09T12:17:36+00:00",
-    "latency_ms": 3764.2,
+    "latency_ms": 422.3,
     "latency_history": [
-      3817.2,
       392.3,
       733.7,
       1046.2,
-      3764.2
+      3764.2,
+      422.3
     ],
     "first_seen": "2026-10-08T22:39:31+00:00",
     "dormant": false,
@@ -113140,6 +113140,23 @@
     "latency_ms": 0.0,
     "latency_history": [],
     "first_seen": "2026-10-26T11:52:29+00:00",
+    "dormant": false,
+    "dormant_since": ""
+  },
+  "43b580e35a2994cf9c819fd2ca78de4a16027aa94cd101017505fae30a054981": {
+    "link": "vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au2.pad-sservice.lat:8443?path=/A11U&security=tls&encryption=none&insecure=0&host=au2.pad-service.com&type=ws&allowInsecure=0&sni=au2.pad-sservice.lat#%E5%BE%B7%E5%9B%BD+V2CROSS.COM",
+    "protocol": "vless",
+    "host": "au2.pad-sservice.lat",
+    "port": 8443,
+    "country": "",
+    "source_repo": "",
+    "source_tag": "github:Pawdroid/Free-servers",
+    "fail_count": 0,
+    "last_verified": "",
+    "last_ok": "",
+    "latency_ms": 0.0,
+    "latency_history": [],
+    "first_seen": "2026-10-26T17:54:42+00:00",
     "dormant": false,
     "dormant_since": ""
   }
