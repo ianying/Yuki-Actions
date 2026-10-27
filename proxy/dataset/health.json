@@ -104029,13 +104029,13 @@
     "fail_count": 0,
     "last_verified": "2026-10-09T12:17:36+00:00",
     "last_ok": "2026-10-09T12:17:36+00:00",
-    "latency_ms": 341.3,
+    "latency_ms": 419.6,
     "latency_history": [
-      422.3,
       521.9,
       488.6,
       488.4,
-      341.3
+      341.3,
+      419.6
     ],
     "first_seen": "2026-10-08T22:39:31+00:00",
     "dormant": false,
@@ -113480,6 +113480,23 @@
     "latency_ms": 0.0,
     "latency_history": [],
     "first_seen": "2026-10-27T17:02:36+00:00",
+    "dormant": false,
+    "dormant_since": ""
+  },
+  "27e4cd6c622f8afff6aebcb9cfc0c00d587485e12a7217d3cb1e26c675314686": {
+    "link": "vless://36fb6650-8a50-42b5-9f66-06538806f32c@de15.h1cloud.net:25362?security=reality&type=tcp&sni=www.chip.de&host=www.chip.de&pbk=hFee7zTreqlv_wccK_8zxN5v23hj9u-DshByvGf-KAA&sid=23732d14a527990d&fp=chrome#%E4%BB%A5%E8%89%B2%E5%88%97+V2CROSS.COM",
+    "protocol": "vless",
+    "host": "de15.h1cloud.net",
+    "port": 25362,
+    "country": "",
+    "source_repo": "",
+    "source_tag": "github:Pawdroid/Free-servers",
+    "fail_count": 0,
+    "last_verified": "",
+    "last_ok": "",
+    "latency_ms": 0.0,
+    "latency_history": [],
+    "first_seen": "2026-10-27T21:35:47+00:00",
     "dormant": false,
     "dormant_since": ""
   }
