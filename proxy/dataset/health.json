@@ -104029,13 +104029,13 @@
     "fail_count": 0,
     "last_verified": "2026-10-09T12:17:36+00:00",
     "last_ok": "2026-10-09T12:17:36+00:00",
-    "latency_ms": 374.0,
+    "latency_ms": 493.1,
     "latency_history": [
-      341.3,
       419.6,
       520.8,
       414.9,
-      374.0
+      374.0,
+      493.1
     ],
     "first_seen": "2026-10-08T22:39:31+00:00",
     "dormant": false,
@@ -114211,6 +114211,40 @@
     "latency_ms": 0.0,
     "latency_history": [],
     "first_seen": "2026-10-28T17:40:48+00:00",
+    "dormant": false,
+    "dormant_since": ""
+  },
+  "22130b8f301970a7ba2741fed6cccd35b4029a96f68727e7f9bad477dce1f60b": {
+    "link": "vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ph001.zestapp778.com:15656?security=tls&type=tcp&packetEncoding=xudp&sni=ph001.zestapp778.com&fp=chrome#%E7%BE%8E%E5%9B%BD+V2CROSS.COM",
+    "protocol": "vless",
+    "host": "ph001.zestapp778.com",
+    "port": 15656,
+    "country": "",
+    "source_repo": "",
+    "source_tag": "github:Pawdroid/Free-servers",
+    "fail_count": 0,
+    "last_verified": "",
+    "last_ok": "",
+    "latency_ms": 0.0,
+    "latency_history": [],
+    "first_seen": "2026-10-28T22:00:15+00:00",
+    "dormant": false,
+    "dormant_since": ""
+  },
+  "d8cad384ee9a5f017802a61ac9dcd7bc4d0b2672bc132a7cf60bccb2abbb979e": {
+    "link": "vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@ru16.oshost.network:443?security=reality&encryption=none&pbk=X9ghpQ7c1lgpEQjAcgx4K9eYs83PC9t9Uy6WHZvSsQY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru16.oshost.network&sid=2181f7d4104207e4#%E7%91%9E%E5%A3%AB+V2CROSS.COM",
+    "protocol": "vless",
+    "host": "ru16.oshost.network",
+    "port": 443,
+    "country": "",
+    "source_repo": "",
+    "source_tag": "github:Pawdroid/Free-servers",
+    "fail_count": 0,
+    "last_verified": "",
+    "last_ok": "",
+    "latency_ms": 0.0,
+    "latency_history": [],
+    "first_seen": "2026-10-28T22:00:15+00:00",
     "dormant": false,
     "dormant_since": ""
   }
