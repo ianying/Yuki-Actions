@@ -80522,13 +80522,13 @@
     "fail_count": 0,
     "last_verified": "2026-11-08T12:27:49+00:00",
     "last_ok": "2026-11-08T12:27:49+00:00",
-    "latency_ms": 317.7,
+    "latency_ms": 478.8,
     "latency_history": [
-      496.3,
       0.2,
       497.7,
       299.9,
-      317.7
+      317.7,
+      478.8
     ],
     "first_seen": "2026-09-11T15:31:33+00:00",
     "dormant": false,
@@ -81154,13 +81154,13 @@
     "fail_count": 0,
     "last_verified": "2026-11-08T12:27:49+00:00",
     "last_ok": "2026-11-08T12:27:49+00:00",
-    "latency_ms": 636.9,
+    "latency_ms": 466.6,
     "latency_history": [
-      488.6,
       0.2,
       466.7,
       633.1,
-      636.9
+      636.9,
+      466.6
     ],
     "first_seen": "2026-09-12T09:47:35+00:00",
     "dormant": false,
@@ -88948,13 +88948,13 @@
     "fail_count": 0,
     "last_verified": "2026-11-08T12:27:49+00:00",
     "last_ok": "2026-11-08T12:27:49+00:00",
-    "latency_ms": 625.2,
+    "latency_ms": 455.8,
     "latency_history": [
-      516.6,
       0.2,
       506.4,
       656.5,
-      625.2
+      625.2,
+      455.8
     ],
     "first_seen": "2026-09-22T02:26:33+00:00",
     "dormant": false,
@@ -104234,13 +104234,13 @@
     "fail_count": 0,
     "last_verified": "2026-11-08T12:27:49+00:00",
     "last_ok": "2026-11-08T12:27:49+00:00",
-    "latency_ms": 489.7,
+    "latency_ms": 334.0,
     "latency_history": [
-      316.9,
       0.4,
       313.8,
       5474.4,
-      489.7
+      489.7,
+      334.0
     ],
     "first_seen": "2026-10-08T22:39:31+00:00",
     "dormant": false,
@@ -118052,13 +118052,13 @@
     "fail_count": 0,
     "last_verified": "2026-11-08T12:27:49+00:00",
     "last_ok": "2026-11-08T12:27:49+00:00",
-    "latency_ms": 340.7,
+    "latency_ms": 933.2,
     "latency_history": [
-      508.7,
       0.1,
       817.7,
       4222.9,
-      340.7
+      340.7,
+      933.2
     ],
     "first_seen": "2026-11-02T03:25:25+00:00",
     "dormant": false,
@@ -119450,13 +119450,13 @@
     "fail_count": 0,
     "last_verified": "2026-11-08T12:27:49+00:00",
     "last_ok": "2026-11-08T12:27:49+00:00",
-    "latency_ms": 655.3,
+    "latency_ms": 4048.9,
     "latency_history": [
-      614.8,
       0.3,
       708.8,
       4836.1,
-      655.3
+      655.3,
+      4048.9
     ],
     "first_seen": "2026-11-07T12:06:12+00:00",
     "dormant": false,
@@ -119837,6 +119837,57 @@
     "latency_ms": 0.0,
     "latency_history": [],
     "first_seen": "2026-11-08T21:29:00+00:00",
+    "dormant": false,
+    "dormant_since": ""
+  },
+  "e6cacbbc71b0363d2f991aa210c00a2ec61168f903c776db59ef7d3f932aba8d": {
+    "link": "vless://28154652-6597-418d-afe5-9f6122d75238@166.0.22.115:26443?type=tcp&security=reality&sni=hk.litehengrui.top&flow=xtls-rprx-vision&pbk=6Ex49pPetMpk_RloKq4d67dMfZxL4bpTSwCqShfHG1E&sid=d64c31573e876084&fp=chrome#JP%20-%20zhuhai.uk",
+    "protocol": "vless",
+    "host": "166.0.22.115",
+    "port": 26443,
+    "country": "",
+    "source_repo": "",
+    "source_tag": "github:zhuhaiuk/free-nodes",
+    "fail_count": 0,
+    "last_verified": "",
+    "last_ok": "",
+    "latency_ms": 0.0,
+    "latency_history": [],
+    "first_seen": "2026-11-09T14:42:14+00:00",
+    "dormant": false,
+    "dormant_since": ""
+  },
+  "b1a9171c9a80ebb2132d16365a7beb241da55892277052d929cf9cfa4aa56906": {
+    "link": "vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@fi-edge.gacvpn.site:443?security=reality&type=tcp&sni=fi3-edge.gacvpn.site&fp=firefox&flow=xtls-rprx-vision&sid=c59bb8af70d9db1e&pbk=QjYksCdraKvxMG024774_EOZjxtIB7xHm3GYGx3oN1Y#FI%20-%20zhuhai.uk%2001",
+    "protocol": "vless",
+    "host": "fi-edge.gacvpn.site",
+    "port": 443,
+    "country": "",
+    "source_repo": "",
+    "source_tag": "github:zhuhaiuk/free-nodes",
+    "fail_count": 0,
+    "last_verified": "",
+    "last_ok": "",
+    "latency_ms": 0.0,
+    "latency_history": [],
+    "first_seen": "2026-11-09T14:42:14+00:00",
+    "dormant": false,
+    "dormant_since": ""
+  },
+  "37d46eed1f4e229bf948b8d514698d618cff2f07fb092fa821b3f07f3f1efbd6": {
+    "link": "vless://ed2e4dd1-d19f-48dd-b613-3f855b1d0765@188.130.154.204:443?security=tls&type=ws&path=%2Fapi%2Fv3%2Fpulse&host=cdn2.zovip2.ir&alpn=http%2F1.1&sni=cdn2.zovip2.ir&fp=chrome#DE%20-%20zhuhai.uk%2001",
+    "protocol": "vless",
+    "host": "188.130.154.204",
+    "port": 443,
+    "country": "",
+    "source_repo": "",
+    "source_tag": "github:zhuhaiuk/free-nodes",
+    "fail_count": 0,
+    "last_verified": "",
+    "last_ok": "",
+    "latency_ms": 0.0,
+    "latency_history": [],
+    "first_seen": "2026-11-09T14:42:14+00:00",
     "dormant": false,
     "dormant_since": ""
   }
