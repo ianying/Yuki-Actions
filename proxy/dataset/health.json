@@ -88948,13 +88948,13 @@
     "fail_count": 0,
     "last_verified": "2026-11-10T00:59:06+00:00",
     "last_ok": "2026-11-10T00:59:06+00:00",
-    "latency_ms": 549.8,
+    "latency_ms": 489.7,
     "latency_history": [
-      656.5,
       625.2,
       455.8,
       0.1,
-      549.8
+      549.8,
+      489.7
     ],
     "first_seen": "2026-09-22T02:26:33+00:00",
     "dormant": false,
@@ -120428,6 +120428,23 @@
       121.0
     ],
     "first_seen": "2026-11-10T00:58:45+00:00",
+    "dormant": false,
+    "dormant_since": ""
+  },
+  "9622b33bcd824846cf6edf65cb2af02a3685dc99c9ddabb0ea2e06a14649697d": {
+    "link": "trojan://a75243d0f5c2e31bd6c8c118b4f6442f81ad@176.122.173.224:443?sni=www.cloudflare.com&allowInsecure=1&type=tcp&fp=chrome#US%20-%20zhuhai.uk%2002",
+    "protocol": "trojan",
+    "host": "176.122.173.224",
+    "port": 443,
+    "country": "",
+    "source_repo": "",
+    "source_tag": "github:zhuhaiuk/free-nodes",
+    "fail_count": 0,
+    "last_verified": "",
+    "last_ok": "",
+    "latency_ms": 0.0,
+    "latency_history": [],
+    "first_seen": "2026-11-10T13:57:51+00:00",
     "dormant": false,
     "dormant_since": ""
   }
