@@ -113,3 +113,4 @@ vless://90157e25-cee1-4217-921e-91f300bc1a24@179.43.166.190:443?type=tcp&securit
 trojan://a75243d0f5c2e31bd6c8c118b4f6442f81ad@176.122.173.224:443?sni=www.cloudflare.com&allowInsecure=1&type=tcp&fp=chrome#US%20-%20zhuhai.uk%2002
 vless://4dbf1ade-33f1-40dc-9273-e51babd570fe@104.36.69.105:443?security=reality&type=raw&sni=portal.citygrainla.com&fp=chrome&flow=xtls-rprx-vision&sid=051f20c2344a2dfd&pbk=BlSccfT5tvDIOS7v9VaPd0ulUNhUdvlMjGiNzDNDUHE#US%20-%20zhuhai.uk%2001
 vless://d7ddade6-b7a0-4cab-a910-d5d5c378d98a@201.58.189.105:2083?security=reality&type=grpc&mode=gun&serviceName=google.storage.v2.Storage&sni=dl.google.com&fp=chrome&sid=8bd80253&pbk=B7x5bYp-YhtLeH31zYcilpKFCkGTMe3jtSECSw-bMC4&encryption=none#PL%20-%20zhuhai.uk%2001
+anytls://b80fb17e-082a-40ce-9e38-ee2f92c1a6ea@site.ddddd.site:36031/?sni=virtual.ubuntu24.com&insecure=1#HK%20-%20zhuhai.uk

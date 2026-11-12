@@ -88948,13 +88948,13 @@
     "fail_count": 0,
     "last_verified": "2026-11-10T00:59:06+00:00",
     "last_ok": "2026-11-10T00:59:06+00:00",
-    "latency_ms": 465.2,
+    "latency_ms": 607.7,
     "latency_history": [
-      489.7,
       597.6,
       523.2,
       633.3,
-      465.2
+      465.2,
+      607.7
     ],
     "first_seen": "2026-09-22T02:26:33+00:00",
     "dormant": false,
@@ -120479,6 +120479,23 @@
     "latency_ms": 0.0,
     "latency_history": [],
     "first_seen": "2026-11-10T22:39:32+00:00",
+    "dormant": false,
+    "dormant_since": ""
+  },
+  "1b7957994c4244d1b0ccaa3e35a02d409100b004180b244d8393330520f26402": {
+    "link": "anytls://b80fb17e-082a-40ce-9e38-ee2f92c1a6ea@site.ddddd.site:36031/?sni=virtual.ubuntu24.com&insecure=1#HK%20-%20zhuhai.uk",
+    "protocol": "anytls",
+    "host": "site.ddddd.site",
+    "port": 36031,
+    "country": "",
+    "source_repo": "",
+    "source_tag": "github:zhuhaiuk/free-nodes",
+    "fail_count": 0,
+    "last_verified": "",
+    "last_ok": "",
+    "latency_ms": 0.0,
+    "latency_history": [],
+    "first_seen": "2026-11-12T04:55:11+00:00",
     "dormant": false,
     "dormant_since": ""
   }
