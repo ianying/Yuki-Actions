@@ -121382,5 +121382,39 @@
     "first_seen": "2026-11-14T12:42:56+00:00",
     "dormant": false,
     "dormant_since": ""
+  },
+  "0aecc1a9ae3020427adcc16c578ab4c45289284365b56661812da7f35f41544f": {
+    "link": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:47691?&security=reality&flow=xtls-rprx-vision&pbk=6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg&sid=2905326a&fp=safari&sni=m.media-amazon.com&type=tcp&headerType=none&host=m.media-amazon.com&path=%2F#%E6%97%A5%E6%9C%AC+%E4%B8%9C%E4%BA%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83",
+    "protocol": "vless",
+    "host": "zfapi.zalolink.com",
+    "port": 47691,
+    "country": "XX",
+    "source_repo": "",
+    "source_tag": "github:Pawdroid/Free-servers",
+    "fail_count": 0,
+    "last_verified": "",
+    "last_ok": "",
+    "latency_ms": 0.0,
+    "latency_history": [],
+    "first_seen": "2026-11-14T21:48:48+00:00",
+    "dormant": false,
+    "dormant_since": ""
+  },
+  "a98183add60a18806939f98742ae53ba09dfe3efa602be4847ec52cbceba8888": {
+    "link": "vless://57beeeb0-03fc-4fc9-94da-7604488a7134@zfapi.zalolink.com:30322?type=tcp&security=reality&sni=psstatic.cdn.bcebos.com&flow=xtls-rprx-vision&pbk=5gncThwqPFzLu23WO3mPTEhG7-KgVYlGVvveHjM2SUo&sid=6a60e7e382d6&fp=chrome#SG%20-%20zhuhai.uk",
+    "protocol": "vless",
+    "host": "zfapi.zalolink.com",
+    "port": 30322,
+    "country": "XX",
+    "source_repo": "",
+    "source_tag": "github:zhuhaiuk/free-nodes",
+    "fail_count": 0,
+    "last_verified": "",
+    "last_ok": "",
+    "latency_ms": 0.0,
+    "latency_history": [],
+    "first_seen": "2026-11-14T21:48:48+00:00",
+    "dormant": false,
+    "dormant_since": ""
   }
 }
