@@ -121637,5 +121637,39 @@
     "first_seen": "2026-11-15T13:09:43+00:00",
     "dormant": false,
     "dormant_since": ""
+  },
+  "b97cb1b89a62abe3438a8591e7bc1b32bfc1036226da0bb1009ef8f6f1c6ec68": {
+    "link": "anytls://9b24e5d0-62be-41df-b967-9b670cf90ff8@forwarded.frnhk.xyz:2086/?sni=de.gosthk.site&insecure=1#DE%20-%20zhuhai.uk",
+    "protocol": "anytls",
+    "host": "forwarded.frnhk.xyz",
+    "port": 2086,
+    "country": "XX",
+    "source_repo": "",
+    "source_tag": "github:zhuhaiuk/free-nodes",
+    "fail_count": 0,
+    "last_verified": "",
+    "last_ok": "",
+    "latency_ms": 0.0,
+    "latency_history": [],
+    "first_seen": "2026-11-15T22:17:04+00:00",
+    "dormant": false,
+    "dormant_since": ""
+  },
+  "3781c0adb6e6ab52e3c195f3b8c945d08fcec424b5b847267d498d0661c6f660": {
+    "link": "hysteria2://b36a14f8-fc3f-4142-968f-48031cf5f330@tr3.h1cloud.net:25515?insecure=1&security=tls&sni=2c74e5t.tr3.h1clayd.click#%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A+V2CROSS.COM",
+    "protocol": "hysteria2",
+    "host": "tr3.h1cloud.net",
+    "port": 25515,
+    "country": "",
+    "source_repo": "",
+    "source_tag": "github:Pawdroid/Free-servers",
+    "fail_count": 0,
+    "last_verified": "",
+    "last_ok": "",
+    "latency_ms": 0.0,
+    "latency_history": [],
+    "first_seen": "2026-11-15T22:17:04+00:00",
+    "dormant": false,
+    "dormant_since": ""
   }
 }
