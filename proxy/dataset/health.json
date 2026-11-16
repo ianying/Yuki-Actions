@@ -121756,5 +121756,39 @@
     "first_seen": "2026-11-16T03:50:44+00:00",
     "dormant": false,
     "dormant_since": ""
+  },
+  "af20831ae40796bfcc01f06299b33ccec22306121f79e9baf9e97fa27bdda430": {
+    "link": "vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@04535dt.us8.h1clayd.click:443?security=reality&type=tcp&packetEncoding=xudp&sni=04535dt.us8.h1clayd.click&fp=firefox&sid=ba2a3dce62b99092&pbk=UoS8qZ74hP_ECcncCz55lzvlcVss3R7VA0WYZE0YQCY&encryption=none#%E7%BE%8E%E5%9B%BD+V2CROSS.COM",
+    "protocol": "vless",
+    "host": "04535dt.us8.h1clayd.click",
+    "port": 443,
+    "country": "",
+    "source_repo": "",
+    "source_tag": "github:Pawdroid/Free-servers",
+    "fail_count": 0,
+    "last_verified": "",
+    "last_ok": "",
+    "latency_ms": 0.0,
+    "latency_history": [],
+    "first_seen": "2026-11-16T14:18:21+00:00",
+    "dormant": false,
+    "dormant_since": ""
+  },
+  "f6d4d2da6a3de349fc3bce4dffbb741c2f3ce6909f153a8c807ede02cae720fa": {
+    "link": "vless://5c5f4a6d-decf-466b-8358-2a0fc2d7a734@jiang.jiangniao.de:443?type=tcp&security=reality&sni=www.amazon.com&flow=xtls-rprx-vision&pbk=ReJYDmhM_L7Y-MzRirsSfUF5ohG-uY9qXGvp6T-ySHs&sid=82bea5d7&fp=chrome#MX%20-%20zhuhai.uk",
+    "protocol": "vless",
+    "host": "jiang.jiangniao.de",
+    "port": 443,
+    "country": "",
+    "source_repo": "",
+    "source_tag": "github:zhuhaiuk/free-nodes",
+    "fail_count": 0,
+    "last_verified": "",
+    "last_ok": "",
+    "latency_ms": 0.0,
+    "latency_history": [],
+    "first_seen": "2026-11-16T14:18:21+00:00",
+    "dormant": false,
+    "dormant_since": ""
   }
 }
