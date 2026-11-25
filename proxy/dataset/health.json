@@ -123514,5 +123514,22 @@
     "first_seen": "2026-11-24T16:42:53+00:00",
     "dormant": false,
     "dormant_since": ""
+  },
+  "9596de4b6dcdcd51f605bdc2cfa42c67ae6e2d3b6880ac997242c97efe1e5a7b": {
+    "link": "vless://00000000-0000-0001-0000-000000000000@136.148.83.71:443?&security=tls&fp=qq&sni=wccfu-ru-79dc.my-fade.cloud&type=tcp&headerType=none&path=%2F#%E8%8B%B1%E5%9B%BD+%E4%BC%A6%E6%95%A6%E5%8D%97%E5%B2%B8%E5%A4%A7%E5%AD%A6",
+    "protocol": "vless",
+    "host": "136.148.83.71",
+    "port": 443,
+    "country": "",
+    "source_repo": "",
+    "source_tag": "github:Pawdroid/Free-servers",
+    "fail_count": 0,
+    "last_verified": "",
+    "last_ok": "",
+    "latency_ms": 0.0,
+    "latency_history": [],
+    "first_seen": "2026-11-25T01:45:18+00:00",
+    "dormant": false,
+    "dormant_since": ""
   }
 }
